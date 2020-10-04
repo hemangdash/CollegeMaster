@@ -17,7 +17,8 @@ Finding resources and aid to get into your college of top choice can be complica
 When we, as international high school students, applied to colleges in the United States, we faced a lot of hurdles through the application process. Finding the correct resources required us to travel. To ask the right questions, we had to pay a huge amount to a college counselor. <br /> <br />
 **CollegeMaster** is an app which provides high school students access to a community of essay reviewers, college students and alumni to connect with and ask the right questions, **at their fingertips**. College applicants can access student interviewers nearest to them through our real-time distance calculation algorithm. They can upload their essays to get insights from expert essay reviewers. They can browse through colleges, get information about each college and any college to their list of colleges for later reference in real-time. <br />
 *How have we created this community?*<br />
-We use the robustness of Google Maps to create an interactive worldwide network by representing each student interviewer who signs up with our service with our app's logo as a marker. Users can also message other app users.
+We use the robustness of Google Maps to create an interactive worldwide network by representing each student interviewer who signs up with our service with our app's logo as a marker. Users can choose from them based on location, which will match them with the people with similar experiences and backgrounds. Users can also message other app users.<br /> <br />
+By making the entire process of college counseling and applications completely virtual, we are trying to make an impact in the **Remote Education** and **Education Technology** sectors.
 
 ***
 
@@ -46,6 +47,7 @@ Few features have been implemented, while others have been shown for scalability
 ![alt text](college_master/images/StudentInterviewing.png)
 - **Worldwide Database**
     - Via the click of a single button, users can access a worldwide database of college students and alumni - created using the Google Maps API
+    - Users can choose those college students and alumni who have similar backgrounds and experiences
     - Users can book appointments with them by clicking the markers on our map, represented by graduation hats (our app logo)
     - Book appointments with them for *mock interviews / meetups*
 ![alt text](college_master/images/Map.png)
