@@ -69,5 +69,5 @@ Few features have been implemented, while others have been shown for scalability
 ***
 
 ### Built by
-- [Hemang Dash](https://github.gatech.edu/hdash3)
-- [Pranav Thomas](https://github.gatech.edu/pthomas76)
+- [Hemang Dash](https://github.com/hemangdash)
+- [Pranav Thomas](https://github.com/pthomas76)
