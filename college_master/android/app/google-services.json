@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717503561183",
+    "firebase_url": "https://collegemaster-d61fb.firebaseio.com",
+    "project_id": "collegemaster-d61fb",
+    "storage_bucket": "collegemaster-d61fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717503561183:android:93c127435d5a00e01a186a",
+        "android_client_info": {
+          "package_name": "com.example.college_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717503561183-qhktcgq7527b7985eglqa92oub78dn94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGPiW9P767s-oOZEefVyxBvq9D6E1U-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717503561183-qhktcgq7527b7985eglqa92oub78dn94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
